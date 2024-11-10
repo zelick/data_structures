@@ -1,0 +1,14 @@
+C:\Users\Miroslav\Desktop\StrukturePodatatkaKod\DataStructuresTest\DataStructuresTest\bin\Debug\net8.0\DataStructuresTest.exe
+C:\Users\Miroslav\Desktop\StrukturePodatatkaKod\DataStructuresTest\DataStructuresTest\bin\Debug\net8.0\DataStructuresTest.deps.json
+C:\Users\Miroslav\Desktop\StrukturePodatatkaKod\DataStructuresTest\DataStructuresTest\bin\Debug\net8.0\DataStructuresTest.runtimeconfig.json
+C:\Users\Miroslav\Desktop\StrukturePodatatkaKod\DataStructuresTest\DataStructuresTest\bin\Debug\net8.0\DataStructuresTest.dll
+C:\Users\Miroslav\Desktop\StrukturePodatatkaKod\DataStructuresTest\DataStructuresTest\bin\Debug\net8.0\DataStructuresTest.pdb
+C:\Users\Miroslav\Desktop\StrukturePodatatkaKod\DataStructuresTest\DataStructuresTest\obj\Debug\net8.0\DataStructuresTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miroslav\Desktop\StrukturePodatatkaKod\DataStructuresTest\DataStructuresTest\obj\Debug\net8.0\DataStructuresTest.AssemblyInfoInputs.cache
+C:\Users\Miroslav\Desktop\StrukturePodatatkaKod\DataStructuresTest\DataStructuresTest\obj\Debug\net8.0\DataStructuresTest.AssemblyInfo.cs
+C:\Users\Miroslav\Desktop\StrukturePodatatkaKod\DataStructuresTest\DataStructuresTest\obj\Debug\net8.0\DataStructuresTest.csproj.CoreCompileInputs.cache
+C:\Users\Miroslav\Desktop\StrukturePodatatkaKod\DataStructuresTest\DataStructuresTest\obj\Debug\net8.0\DataStructuresTest.dll
+C:\Users\Miroslav\Desktop\StrukturePodatatkaKod\DataStructuresTest\DataStructuresTest\obj\Debug\net8.0\refint\DataStructuresTest.dll
+C:\Users\Miroslav\Desktop\StrukturePodatatkaKod\DataStructuresTest\DataStructuresTest\obj\Debug\net8.0\DataStructuresTest.pdb
+C:\Users\Miroslav\Desktop\StrukturePodatatkaKod\DataStructuresTest\DataStructuresTest\obj\Debug\net8.0\DataStructuresTest.genruntimeconfig.cache
+C:\Users\Miroslav\Desktop\StrukturePodatatkaKod\DataStructuresTest\DataStructuresTest\obj\Debug\net8.0\ref\DataStructuresTest.dll
