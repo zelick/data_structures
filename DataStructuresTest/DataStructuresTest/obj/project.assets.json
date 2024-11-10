@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Miroslav\\Desktop\\StrukturePodatatkaKod\\DataStructuresTest\\DataStructuresTest\\DataStructuresTest.csproj",
+      "projectUniqueName": "C:\\Users\\Miroslav\\Desktop\\data_structures\\DataStructuresTest\\DataStructuresTest\\DataStructuresTest.csproj",
       "projectName": "DataStructuresTest",
-      "projectPath": "C:\\Users\\Miroslav\\Desktop\\StrukturePodatatkaKod\\DataStructuresTest\\DataStructuresTest\\DataStructuresTest.csproj",
+      "projectPath": "C:\\Users\\Miroslav\\Desktop\\data_structures\\DataStructuresTest\\DataStructuresTest\\DataStructuresTest.csproj",
       "packagesPath": "C:\\Users\\Miroslav\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Miroslav\\Desktop\\StrukturePodatatkaKod\\DataStructuresTest\\DataStructuresTest\\obj\\",
+      "outputPath": "C:\\Users\\Miroslav\\Desktop\\data_structures\\DataStructuresTest\\DataStructuresTest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Miroslav\\AppData\\Roaming\\NuGet\\NuGet.Config",

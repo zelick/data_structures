@@ -9,7 +9,6 @@ namespace DataStructuresTest
     {
         public int Data { get; set; } //diffrent types
         public Node? Next { get; set; }
-
         public Node(int data)
         {
             Data = data;
