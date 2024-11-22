@@ -1,4 +1,5 @@
-﻿using System;
+﻿using ProducerConsumerApp;
+using System;
 using System.Collections.Concurrent;
 using System.Threading;
 
@@ -26,12 +27,38 @@ class Program
         //Thread consumerThread = new Thread(() => Potrosac(red));
 
         // Startujemo niti
-       // producerThread.Start();
-       // consumerThread.Start();
+        // producerThread.Start();
+        // consumerThread.Start();
 
         // Čekamo da se niti završe
-       // producerThread.Join();
-       // consumerThread.Join();
+        // producerThread.Join();
+        // consumerThread.Join();
+
+
+        //Proba za listu
+        Console.WriteLine("------------------Lista-------------------");
+        ExampleThreadSafeClass threadSafeList = new ExampleThreadSafeClass(5);
+
+        Task producerTaskList = Task.Run(() =>
+        {
+            for (int i = 1; i <= 10; i++)
+            {
+                threadSafeList.put(i);
+                Task.Delay(100).Wait(); // Simulacija kašnjenja proizvođača
+            }
+        });
+
+        Task consumerTaskList = Task.Run(() =>
+        {
+            for (int i = 1; i <= 10; i++)
+            {
+                threadSafeList.get();
+                Task.Delay(150).Wait(); // Simulacija kašnjenja potrošača
+            }
+        });
+
+        Task.WaitAll(producerTaskList, consumerTaskList);
+
     }
 
     static void Proizvodjac(BlockingCollection<int> red)
