@@ -1,0 +1,15 @@
+C:\Users\Miroslav\Desktop\data_structures\Niti\ProducerConsumerApp\bin\Debug\net8.0\ProducerConsumerApp.exe
+C:\Users\Miroslav\Desktop\data_structures\Niti\ProducerConsumerApp\bin\Debug\net8.0\ProducerConsumerApp.deps.json
+C:\Users\Miroslav\Desktop\data_structures\Niti\ProducerConsumerApp\bin\Debug\net8.0\ProducerConsumerApp.runtimeconfig.json
+C:\Users\Miroslav\Desktop\data_structures\Niti\ProducerConsumerApp\bin\Debug\net8.0\ProducerConsumerApp.dll
+C:\Users\Miroslav\Desktop\data_structures\Niti\ProducerConsumerApp\bin\Debug\net8.0\ProducerConsumerApp.pdb
+C:\Users\Miroslav\Desktop\data_structures\Niti\ProducerConsumerApp\obj\Debug\net8.0\ProducerConsumerApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miroslav\Desktop\data_structures\Niti\ProducerConsumerApp\obj\Debug\net8.0\ProducerConsumerApp.AssemblyInfoInputs.cache
+C:\Users\Miroslav\Desktop\data_structures\Niti\ProducerConsumerApp\obj\Debug\net8.0\ProducerConsumerApp.AssemblyInfo.cs
+C:\Users\Miroslav\Desktop\data_structures\Niti\ProducerConsumerApp\obj\Debug\net8.0\ProducerConsumerApp.csproj.CoreCompileInputs.cache
+C:\Users\Miroslav\Desktop\data_structures\Niti\ProducerConsumerApp\obj\Debug\net8.0\ProducerConsumerApp.sourcelink.json
+C:\Users\Miroslav\Desktop\data_structures\Niti\ProducerConsumerApp\obj\Debug\net8.0\ProducerConsumerApp.dll
+C:\Users\Miroslav\Desktop\data_structures\Niti\ProducerConsumerApp\obj\Debug\net8.0\refint\ProducerConsumerApp.dll
+C:\Users\Miroslav\Desktop\data_structures\Niti\ProducerConsumerApp\obj\Debug\net8.0\ProducerConsumerApp.pdb
+C:\Users\Miroslav\Desktop\data_structures\Niti\ProducerConsumerApp\obj\Debug\net8.0\ProducerConsumerApp.genruntimeconfig.cache
+C:\Users\Miroslav\Desktop\data_structures\Niti\ProducerConsumerApp\obj\Debug\net8.0\ref\ProducerConsumerApp.dll
