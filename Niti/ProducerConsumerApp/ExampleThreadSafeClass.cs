@@ -24,7 +24,7 @@ namespace ProducerConsumerApp
             {
                 while (numbers.Count >= capacity) // Ako je lista puna, čekaj
                 {
-                    Monitor.Wait(lockObject); // Oslobađa lock , nit prelazi u stanje ceka i čeka signal da moze da nastavi, dobija signal od Monit.Pulse
+                    Monitor.Wait(lockObject); // Oslobađa lock, nit prelazi u stanje ceka i čeka signal da moze da nastavi, dobija signal od Monit.Pulse
                 }
                 numbers.Add(number);
                 Console.WriteLine($"Dodao broj {number} u listu");

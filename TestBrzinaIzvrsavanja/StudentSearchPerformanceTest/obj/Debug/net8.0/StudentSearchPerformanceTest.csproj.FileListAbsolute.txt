@@ -1,0 +1,15 @@
+C:\Users\Miroslav\Desktop\data_structures\TestBrzinaIzvrsavanja\StudentSearchPerformanceTest\bin\Debug\net8.0\StudentSearchPerformanceTest.exe
+C:\Users\Miroslav\Desktop\data_structures\TestBrzinaIzvrsavanja\StudentSearchPerformanceTest\bin\Debug\net8.0\StudentSearchPerformanceTest.deps.json
+C:\Users\Miroslav\Desktop\data_structures\TestBrzinaIzvrsavanja\StudentSearchPerformanceTest\bin\Debug\net8.0\StudentSearchPerformanceTest.runtimeconfig.json
+C:\Users\Miroslav\Desktop\data_structures\TestBrzinaIzvrsavanja\StudentSearchPerformanceTest\bin\Debug\net8.0\StudentSearchPerformanceTest.dll
+C:\Users\Miroslav\Desktop\data_structures\TestBrzinaIzvrsavanja\StudentSearchPerformanceTest\bin\Debug\net8.0\StudentSearchPerformanceTest.pdb
+C:\Users\Miroslav\Desktop\data_structures\TestBrzinaIzvrsavanja\StudentSearchPerformanceTest\obj\Debug\net8.0\StudentSearchPerformanceTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miroslav\Desktop\data_structures\TestBrzinaIzvrsavanja\StudentSearchPerformanceTest\obj\Debug\net8.0\StudentSearchPerformanceTest.AssemblyInfoInputs.cache
+C:\Users\Miroslav\Desktop\data_structures\TestBrzinaIzvrsavanja\StudentSearchPerformanceTest\obj\Debug\net8.0\StudentSearchPerformanceTest.AssemblyInfo.cs
+C:\Users\Miroslav\Desktop\data_structures\TestBrzinaIzvrsavanja\StudentSearchPerformanceTest\obj\Debug\net8.0\StudentSearchPerformanceTest.csproj.CoreCompileInputs.cache
+C:\Users\Miroslav\Desktop\data_structures\TestBrzinaIzvrsavanja\StudentSearchPerformanceTest\obj\Debug\net8.0\StudentSearchPerformanceTest.sourcelink.json
+C:\Users\Miroslav\Desktop\data_structures\TestBrzinaIzvrsavanja\StudentSearchPerformanceTest\obj\Debug\net8.0\StudentSearchPerformanceTest.dll
+C:\Users\Miroslav\Desktop\data_structures\TestBrzinaIzvrsavanja\StudentSearchPerformanceTest\obj\Debug\net8.0\refint\StudentSearchPerformanceTest.dll
+C:\Users\Miroslav\Desktop\data_structures\TestBrzinaIzvrsavanja\StudentSearchPerformanceTest\obj\Debug\net8.0\StudentSearchPerformanceTest.pdb
+C:\Users\Miroslav\Desktop\data_structures\TestBrzinaIzvrsavanja\StudentSearchPerformanceTest\obj\Debug\net8.0\StudentSearchPerformanceTest.genruntimeconfig.cache
+C:\Users\Miroslav\Desktop\data_structures\TestBrzinaIzvrsavanja\StudentSearchPerformanceTest\obj\Debug\net8.0\ref\StudentSearchPerformanceTest.dll

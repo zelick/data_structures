@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Miroslav\\Desktop\\data_structures\\TestBrzinaIzvrsavanja\\StudentSearchPerformanceTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{134CCE5D-69EC-4A91-883E-69F6CEDD8B42}|StudentSearchPerformanceTest.csproj|c:\\users\\miroslav\\desktop\\data_structures\\testbrzinaizvrsavanja\\studentsearchperformancetest\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{134CCE5D-69EC-4A91-883E-69F6CEDD8B42}|StudentSearchPerformanceTest.csproj|solutionrelative:student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{134CCE5D-69EC-4A91-883E-69F6CEDD8B42}|StudentSearchPerformanceTest.csproj|c:\\users\\miroslav\\desktop\\data_structures\\testbrzinaizvrsavanja\\studentsearchperformancetest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{134CCE5D-69EC-4A91-883E-69F6CEDD8B42}|StudentSearchPerformanceTest.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Miroslav\\Desktop\\data_structures\\TestBrzinaIzvrsavanja\\StudentSearchPerformanceTest\\Student.cs",
+              "RelativeDocumentMoniker": "Student.cs",
+              "ToolTip": "C:\\Users\\Miroslav\\Desktop\\data_structures\\TestBrzinaIzvrsavanja\\StudentSearchPerformanceTest\\Student.cs",
+              "RelativeToolTip": "Student.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAYwBcAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T22:51:59.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Miroslav\\Desktop\\data_structures\\TestBrzinaIzvrsavanja\\StudentSearchPerformanceTest\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Miroslav\\Desktop\\data_structures\\TestBrzinaIzvrsavanja\\StudentSearchPerformanceTest\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAGQAAAAAAAAAAAAkwHwAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T22:51:38.042Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
