@@ -25,7 +25,7 @@ namespace StudentSearchPerformanceTest
        public override bool Equals(object? obj)
         {
             if (obj is Student other)
-            {
+            { //nasumicne 
                 return this.Jmbg == other.Jmbg;
             }
             return false;
